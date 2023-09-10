@@ -4,13 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc28d5db-0485-4a24-b923-04d6ef260e72" name="Changes" comment="" />
+    <list default="true" id="fc28d5db-0485-4a24-b923-04d6ef260e72" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/LordMod.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/LordMod.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordMod.iws" beforeDir="false" afterPath="$PROJECT_DIR$/LordMod.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/DIM-1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Copy of Main/DIM-1/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/DIM1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Copy of Main/DIM1/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Copy of Main/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Copy of Main/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Copy of Main/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/stats/2c9d87c8-64e7-3ca8-861e-e4a9ef3d93bc.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Copy of Main/stats/2c9d87c8-64e7-3ca8-861e-e4a9ef3d93bc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
     <option name="REVERSE_PATCH" value="false" />
@@ -81,6 +91,9 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
@@ -98,22 +111,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Minecraft Client">
     <configuration default="true" factoryName="Applet" type="Applet">
       <module name="" />
@@ -218,7 +232,7 @@
       <workItem from="1694360058150" duration="158000" />
       <workItem from="1694360479310" duration="586000" />
       <workItem from="1694361068975" duration="218000" />
-      <workItem from="1694361299577" duration="647000" />
+      <workItem from="1694361299577" duration="1362000" />
     </task>
     <servers />
   </component>
