@@ -22,7 +22,7 @@ public class Main {
 	
 	public static final String MODID = "Aftermine";
 	public static final String MODNAME = "AfterMine";
-	public static final String VERSION = "1.1.1";
+	public static final String VERSION = "1.1.2";
 	
 	public static Block strongCobblestone;
 	public static Item strongCobblestoneSword;
@@ -31,7 +31,7 @@ public class Main {
 	public void preLoad(FMLPreInitializationEvent event)
 	{
 		strongCobblestone = new ModBlock(Material.iron, "StrongCobblestone", "strongcobblestone");
-		strongCobblestoneSword = new ModItems(ToolMaterial.STONE, "strongcobblestonesword");
+		strongCobblestoneSword = new ModItems(ToolMaterial.STONE, "StrongCobblestoneSword", "strongcobblestonesword");
 		ModRecipes.registerRecipes();
 	}
 

@@ -1,20 +1,11 @@
-[23:05:57] [main/INFO]: Setting user: Player126
-[23:05:59] [Client thread/INFO]: LWJGL Version: 2.9.1
-[23:06:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AfterMine
-[23:06:13] [Sound Library Loader/INFO]: Sound engine started
-[23:06:16] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[23:06:16] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[23:06:16] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AfterMine
-[23:06:17] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[23:06:17] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[23:06:17] [Sound Library Loader/INFO]: Sound engine started
-[23:06:22] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[23:06:22] [Server thread/INFO]: Generating keypair
-[23:06:25] [Server thread/INFO]: Preparing start region for level 0
-[23:06:26] [Server thread/INFO]: Changing view distance to 12, from 10
-[23:06:27] [Server thread/INFO]: Player126[local:E:62e06ab8] logged in with entity id 389 at (229.38237502576254, 77.0, 260.6577530810404)
-[23:06:27] [Server thread/INFO]: Player126 joined the game
-[23:06:28] [Server thread/INFO]: Player126 has just earned the achievement [Taking Inventory]
-[23:06:28] [Client thread/INFO]: [CHAT] Player126 has just earned the achievement [Taking Inventory]
-[23:06:32] [Server thread/INFO]: [Player126: Set own game mode to Creative Mode]
-[23:06:32] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[08:10:03] [main/INFO]: Setting user: Player46
+[08:10:05] [Client thread/INFO]: LWJGL Version: 2.9.1
+[08:10:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AfterMine
+[08:10:16] [Sound Library Loader/INFO]: Sound engine started
+[08:10:19] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[08:10:19] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[08:10:19] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AfterMine
+[08:10:19] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[08:10:19] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[08:10:20] [Sound Library Loader/INFO]: Sound engine started
+[08:12:59] [Client thread/INFO]: Stopping!

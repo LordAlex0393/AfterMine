@@ -9,6 +9,7 @@ public class ModBlock extends Block {
 
 	protected ModBlock(Material p_i45394_1_, String name, String texture) {
 		super(p_i45394_1_);
+		setBlockTextureName("aftermine:strongcobblestone");
 		this.setBlockName(name);
 		this.setLightLevel(0F);
 		this.setLightOpacity(10);
@@ -17,9 +18,6 @@ public class ModBlock extends Block {
 		this.setResistance(10.0F);
 		this.setHarvestLevel("picaxe", 3);
 		this.setStepSound(soundTypeStone);
-		//this.setBlockUnbreakable();
-		this.setBlockTextureName(Main.MODID + ":" + texture);
 		GameRegistry.registerBlock(this, name);
 	}
-
 }
