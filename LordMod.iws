@@ -5,74 +5,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc28d5db-0485-4a24-b923-04d6ef260e72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/StrongStone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordMod.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/LordMod.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LordMod.iws" beforeDir="false" afterPath="$PROJECT_DIR$/LordMod.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-10-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-10-1.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-10-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-10-2.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-10-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-10-3.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-10-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-10-4.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-10-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-10-5.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-10-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-10-6.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-10-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-10-7.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/DIM-1/data/villages.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/DIM-1/forcedchunks.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/DIM1/data/villages.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/DIM1/forcedchunks.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/data/Mineshaft.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/data/villages.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/forcedchunks.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/level.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/level.dat_mcr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/level.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/playerdata/03ba29a1-d6bd-32ba-90b2-375e4d65abc9.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/playerdata/2c9d87c8-64e7-3ca8-861e-e4a9ef3d93bc.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/playerdata/6ecd1629-dee4-373d-9457-481bd36b0826.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/playerdata/a129ebab-93ca-3ac8-86a9-47cce1be86d0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/playerdata/ac42e7c5-bf90-3ead-ba50-c551df161044.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/region/r.-1.0.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/region/r.-1.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/region/r.0.0.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/region/r.0.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/session.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/stats/03ba29a1-d6bd-32ba-90b2-375e4d65abc9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/stats/2c9d87c8-64e7-3ca8-861e-e4a9ef3d93bc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/stats/6ecd1629-dee4-373d-9457-481bd36b0826.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/stats/a129ebab-93ca-3ac8-86a9-47cce1be86d0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Copy of Main/stats/ac42e7c5-bf90-3ead-ba50-c551df161044.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Main/DIM-1/data/villages.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Main/DIM-1/forcedchunks.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Main/DIM1/data/villages.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Main/DIM1/forcedchunks.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Main/data/Mineshaft.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Main/data/villages.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Main/forcedchunks.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Main/level.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Main/level.dat_mcr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Main/level.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Main/playerdata/a129ebab-93ca-3ac8-86a9-47cce1be86d0.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Main/playerdata/d2fd1c5d-4760-35a0-aa0f-c197e25af2ac.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Main/region/r.0.0.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Main/session.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Main/stats/a129ebab-93ca-3ac8-86a9-47cce1be86d0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Main/stats/d2fd1c5d-4760-35a0-aa0f-c197e25af2ac.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/DIM-1/data/villages.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/DIM-1/forcedchunks.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/DIM1/data/villages.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/DIM1/forcedchunks.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/data/Mineshaft.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/data/villages.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/forcedchunks.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/level.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/level.dat_mcr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/level.dat_old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/0f12271c-8f6c-3b4a-9805-4e9544c8a791.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/2654e3c3-150d-3857-a426-0b141796a4e0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/3bdd7bc1-57b3-3ed1-a14e-cc7341dec1b1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/4c4af65a-e991-33a8-a762-2d145c215578.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/538c2a55-7afc-37c7-ab76-b8f0ee8467dd.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/5f90bf1f-575d-3542-89d7-731859eee6f2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/6b70ab1d-ea1f-3080-82f2-6a9952eea911.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/e2fd3051-a7ee-3ec9-ae1f-a1b6240b0501.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/playerdata/fe207da4-45aa-3a2a-bf67-72a700290388.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-1.-1.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-1.0.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/region/r.-1.1.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/region/r.0.-1.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/region/r.0.0.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/region/r.0.1.mca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/session.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/stats/0f12271c-8f6c-3b4a-9805-4e9544c8a791.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/stats/2654e3c3-150d-3857-a426-0b141796a4e0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/stats/3bdd7bc1-57b3-3ed1-a14e-cc7341dec1b1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/stats/4c4af65a-e991-33a8-a762-2d145c215578.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/stats/538c2a55-7afc-37c7-ab76-b8f0ee8467dd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/stats/5f90bf1f-575d-3542-89d7-731859eee6f2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/stats/6b70ab1d-ea1f-3080-82f2-6a9952eea911.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/stats/e2fd3051-a7ee-3ec9-ae1f-a1b6240b0501.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/New World/stats/fe207da4-45aa-3a2a-bf67-72a700290388.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/ModBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/ModBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/ModItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/aftermine/textures/items/strongcobblestonesword.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/strongcobblestone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/ModItems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/ModRecipes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/ModRecipes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/aftermine/textures/blocks/strongcobblestone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/aftermine/textures/items/strongcobblestone.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,6 +140,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -182,10 +180,15 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lordalex.aftermine" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Minecraft Client">
     <configuration default="true" factoryName="Applet" type="Applet">
       <module name="" />
@@ -294,7 +297,10 @@
       <workItem from="1694363261725" duration="711000" />
       <workItem from="1694363987442" duration="691000" />
       <workItem from="1694364749346" duration="148000" />
-      <workItem from="1694394005513" duration="587000" />
+      <workItem from="1694394005513" duration="1615000" />
+      <workItem from="1694444075935" duration="301000" />
+      <workItem from="1694444688163" duration="166000" />
+      <workItem from="1694444901132" duration="1850000" />
     </task>
     <servers />
   </component>

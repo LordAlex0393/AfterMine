@@ -10,5 +10,17 @@ public class ModRecipes {
         GameRegistry.addShapedRecipe(new ItemStack(Main.strongCobblestone),
                 "CCC", "CCC", "CCC",
                 'C', Blocks.cobblestone);
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongCobblestoneSword),
+                " C ", " C ", " S ",
+                'C', Main.strongCobblestone,
+                'S', Items.stick);
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongCobblestoneSword),
+                "  C", "  C", "  S",
+                'C', Main.strongCobblestone,
+                'S', Items.stick);
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongCobblestoneSword),
+                "C  ", "C  ", "S  ",
+                'C', Main.strongCobblestone,
+                'S', Items.stick);
     }
 }
