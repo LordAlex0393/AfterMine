@@ -10,17 +10,48 @@ public class ModRecipes {
         GameRegistry.addShapedRecipe(new ItemStack(Main.strongCobblestone),
                 "CCC", "CCC", "CCC",
                 'C', Blocks.cobblestone);
-        GameRegistry.addShapedRecipe(new ItemStack(Main.strongCobblestoneSword),
+
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongStoneSword),
                 " C ", " C ", " S ",
                 'C', Main.strongCobblestone,
                 'S', Items.stick);
-        GameRegistry.addShapedRecipe(new ItemStack(Main.strongCobblestoneSword),
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongStoneSword),
                 "  C", "  C", "  S",
                 'C', Main.strongCobblestone,
                 'S', Items.stick);
-        GameRegistry.addShapedRecipe(new ItemStack(Main.strongCobblestoneSword),
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongStoneSword),
                 "C  ", "C  ", "S  ",
                 'C', Main.strongCobblestone,
                 'S', Items.stick);
+
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongStonePickaxe),
+                "CCC", " S ", " S ",
+                'C', Main.strongCobblestone,
+                'S', Items.stick);
+
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongStoneLabrys),
+                "CCC", "CSC", " S ",
+                'C', Main.strongCobblestone,
+                'S', Items.stick);
+
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongStoneBricks),
+                " CC", " CC", "   ",
+                'C', Main.strongCobblestone);
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongStoneBricks),
+                "   ", "CC ", "CC ",
+                'C', Main.strongCobblestone);
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongStoneBricks),
+                "CC ", "CC ", "   ",
+                'C', Main.strongCobblestone);
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongStoneBricks),
+                "   ", " CC", " CC",
+                'C', Main.strongCobblestone);
+
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongStoneBricks),
+                "C  ", "CC ", "CCC",
+                'C', Main.strongCobblestone);
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongStoneBricks),
+                "  C", " CC", "CCC",
+                'C', Main.strongCobblestone);
     }
 }

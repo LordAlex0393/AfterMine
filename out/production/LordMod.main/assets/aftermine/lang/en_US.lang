@@ -1,0 +1,6 @@
+item.StrongStoneSword.name=Strong Stone Sword
+item.StrongStonePickaxe.name=Strong Stone Pickaxe
+item.StrongStoneLabrys.name=Strong Stone Labrys
+tile.StrongStone.name=Strong Cobblestone
+tile.StrongStoneBricks=Strong Stone Bricks
+itemGroup.lordItems=AfterMine

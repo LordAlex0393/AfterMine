@@ -25,7 +25,7 @@ public class StrongStonePickaxe extends ItemTool {
         setTextureName(Main.MODID + ":" + texture);
         setCreativeTab(Main.lordItems);
         setUnlocalizedName(name);
-        setHarvestLevel("pickaxe", ModItems.STRONG_STONE_TOOL_MATERIAL.getHarvestLevel());
+        setHarvestLevel("pickaxe", material.getHarvestLevel());
         GameRegistry.registerItem(this, name);
     }
 
