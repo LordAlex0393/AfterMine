@@ -12,9 +12,9 @@ public class StrongStone extends Block {
         this.setBlockName(name);
         this.setLightLevel(0F);
         this.setLightOpacity(10);
-        this.setHardness(5.0F);
+        this.setHardness(3.0F);
         this.setCreativeTab(Main.lordItems);
-        this.setResistance(10.0F);
+        this.setResistance(20.0F);
         this.setHarvestLevel("picaxe", 2);
         this.setStepSound(soundTypeStone);
         this.setBlockTextureName(Main.MODID + ":" + texture);

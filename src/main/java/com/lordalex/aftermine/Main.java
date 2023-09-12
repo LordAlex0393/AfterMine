@@ -27,6 +27,8 @@ public class Main {
 	public static Block strongCobblestone;
 	public static Block strongStoneBricks;
 	public static Block strongBrickStairs;
+	public static Block strongBrickSlab;
+	//public static Block doubleStrongBrickSlab;
 	public static Item strongStoneSword;
 	public static Item strongStonePickaxe;
 	public static Item strongStoneLabrys;
@@ -36,7 +38,9 @@ public class Main {
 	{
 		strongCobblestone = new StrongStone(Material.iron, "StrongStone", "strong_stone");
 		strongStoneBricks = new StorngStoneBricks(Material.iron, "StrongStoneBricks", "strong_stone_bricks");
-		strongBrickStairs = new StrongBrickStairs(Material.iron,"StrongBrickStairs", "strong_brick_stairs");
+		strongBrickStairs = new StrongBrickStairs(Material.iron,"StrongBrickStairs", "strong_stone_bricks");
+		strongBrickSlab = new StrongBrickSlab(Material.iron,"StrongBrickSlab", "strong_stone_bricks", false);
+		//doubleStrongBrickSlab = new StrongBrickSlab(Material.iron,"DoubleStrongBrickSlab", "strong_stone_bricks", true);
 
 		strongStoneSword = new ModItemSword(ToolMaterial.IRON, "StrongStoneSword", "strong_stone_sword");
 		strongStonePickaxe = new StrongStonePickaxe(ModItems.STRONG_STONE_TOOL_MATERIAL, "StrongStonePickaxe", "strong_stone_pickaxe");
