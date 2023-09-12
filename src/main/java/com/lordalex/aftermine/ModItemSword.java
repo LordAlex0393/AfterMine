@@ -1,10 +1,17 @@
 package com.lordalex.aftermine;
 
 import cpw.mods.fml.common.registry.GameRegistry;
+import cpw.mods.fml.relauncher.Side;
+import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.entity.EntityLivingBase;
+import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.EnumAction;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemSword;
+import net.minecraft.util.ChatComponentText;
+import net.minecraft.world.World;
+
+import java.util.List;
 
 
 public class ModItemSword extends ItemSword {
@@ -28,11 +35,15 @@ public class ModItemSword extends ItemSword {
         return true;
     }
 
+    public void onCreated(ItemStack itemStack, World world, EntityPlayer player){
+        if(world.isRemote){
+            player.addChatMessage(new ChatComponentText("§7StrongSword§f was created!"));
+        }
+    }
 
-
-//	@SideOnly(Side.CLIENT)
-//	public void addInformation(List par3List) {
-//		par3List.add("111111111");
-//		par3List.add("111111111: "+this.getMaxDamage());
-//	}
+	@SideOnly(Side.CLIENT)
+	public void addInformation(List par3List) {
+		par3List.add("NewItem");
+		par3List.add("Damage: "+this.getMaxDamage());
+	}
 }
