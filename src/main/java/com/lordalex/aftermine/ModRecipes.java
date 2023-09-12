@@ -13,6 +13,7 @@ public class ModRecipes {
         ModRecipes.regStrongStoneLabrys();
         ModRecipes.regStrongStoneBricks();
         ModRecipes.regStrongBrickStairs();
+        ModRecipes.regStrongBrickSlab();
 
     }
     public static void regStrongCobbleStone(){
@@ -67,6 +68,17 @@ public class ModRecipes {
                 'C', Main.strongStoneBricks);
         GameRegistry.addShapedRecipe(new ItemStack(Main.strongBrickStairs, 4),
                 "  C", " CC", "CCC",
+                'C', Main.strongStoneBricks);
+    }
+    public static void regStrongBrickSlab() {
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongBrickSlab, 4),
+                "   ", "   ", "CCC",
+                'C', Main.strongStoneBricks);
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongBrickSlab, 4),
+                "CCC", "   ", "   ",
+                'C', Main.strongStoneBricks);
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongBrickSlab, 4),
+                "   ", "CCC", "   ",
                 'C', Main.strongStoneBricks);
     }
 }

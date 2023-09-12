@@ -13,7 +13,7 @@ public class StorngStoneBricks extends Block {
         this.setLightOpacity(10);
         this.setHardness(2.0F);
         this.setCreativeTab(Main.lordItems);
-        this.setResistance(15.0F);
+        this.setResistance(2000.0F);
         this.setHarvestLevel("picaxe", 2);
         this.setStepSound(soundTypeStone);
         this.setBlockTextureName(Main.MODID + ":" + texture);

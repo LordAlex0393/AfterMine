@@ -1,0 +1,24 @@
+[23:37:12] [main/INFO]: Setting user: Player250
+[23:37:15] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:37:27] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AfterMine
+[23:37:28] [Sound Library Loader/INFO]: Sound engine started
+[23:37:30] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[23:37:30] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[23:37:30] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AfterMine
+[23:37:31] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:37:31] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:37:32] [Sound Library Loader/INFO]: Sound engine started
+[23:37:36] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:37:36] [Server thread/INFO]: Generating keypair
+[23:37:41] [Server thread/INFO]: Preparing start region for level 0
+[23:37:41] [Server thread/INFO]: Changing view distance to 12, from 10
+[23:37:42] [Server thread/INFO]: Player250[local:E:a4fcfdc6] logged in with entity id 52 at (329.70502744926455, 64.0, 208.93800540504222)
+[23:37:42] [Server thread/INFO]: Player250 joined the game
+[23:38:17] [Client thread/INFO]: Stopping!
+[23:38:17] [Server thread/INFO]: Stopping server
+[23:38:17] [Server thread/INFO]: Saving players
+[23:38:17] [Server thread/INFO]: Saving worlds
+[23:38:17] [Server thread/INFO]: Saving chunks for level 'TEST'/Overworld
+[23:38:17] [Server thread/INFO]: Saving chunks for level 'TEST'/Nether
+[23:38:17] [Server thread/INFO]: Saving chunks for level 'TEST'/The End
+[23:42:01] [main/INFO]: Setting user: Player796

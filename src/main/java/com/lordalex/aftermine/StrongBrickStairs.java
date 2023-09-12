@@ -15,7 +15,7 @@ public class StrongBrickStairs extends BlockStairs {
         this.setResistance(10.0F);
         this.setHarvestLevel("picaxe", 2);
         this.setStepSound(soundTypeStone);
-        this.setBlockTextureName(Main.MODID + ":" + texture);
+        this.setBlockTextureName(Main.MODID + texture);
         GameRegistry.registerBlock(this, name);
     }
 }

@@ -32,6 +32,7 @@ public class Main {
 	public static Item strongStoneSword;
 	public static Item strongStonePickaxe;
 	public static Item strongStoneLabrys;
+	public static Item strongStoneHoe;
 
 	@EventHandler
 	public void preLoad(FMLPreInitializationEvent event)
@@ -42,6 +43,7 @@ public class Main {
 		strongBrickSlab = new StrongBrickSlab(Material.iron,"StrongBrickSlab", "strong_stone_bricks", false);
 		//doubleStrongBrickSlab = new StrongBrickSlab(Material.iron,"DoubleStrongBrickSlab", "strong_stone_bricks", true);
 
+		strongStoneHoe = new StrongStoneHoe(ModItems.STRONG_STONE_TOOL_MATERIAL, "hoe", "hoe");
 		strongStoneSword = new ModItemSword(ToolMaterial.IRON, "StrongStoneSword", "strong_stone_sword");
 		strongStonePickaxe = new StrongStonePickaxe(ModItems.STRONG_STONE_TOOL_MATERIAL, "StrongStonePickaxe", "strong_stone_pickaxe");
 		strongStoneLabrys = new StrongStoneLabrys(ModItems.STRONG_STONE_LABRYS_MATERIAL, "StrongStoneLabrys", "strong_stone_labrys");
