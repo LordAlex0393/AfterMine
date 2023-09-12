@@ -5,57 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc28d5db-0485-4a24-b923-04d6ef260e72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AfterMine.api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AfterMine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AfterMine.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AfterMine.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LordMod.api.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LordMod.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LordMod.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/LordMod.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LordMod.iws" beforeDir="false" afterPath="$PROJECT_DIR$/LordMod.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LordMod.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LordMod.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-12-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-12-1.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-12-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-12-2.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-12-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-12-3.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-12-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-12-4.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-12-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-12-5.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-12-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-12-6.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-12-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-12-7.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/options.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/options.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/DIM-1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/DIM-1/data/villages.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/DIM1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/DIM1/data/villages.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/data/villages.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/level.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/level.dat_old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/2659329e-1c65-3850-9659-d27fc655aa3c.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/2659329e-1c65-3850-9659-d27fc655aa3c.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/37815b4b-a277-3e88-89c9-687629f7c447.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/37815b4b-a277-3e88-89c9-687629f7c447.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/fd2b0ed7-411b-3fc7-aa79-261670dbe34f.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/fd2b0ed7-411b-3fc7-aa79-261670dbe34f.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/region/r.0.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/region/r.1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/region/r.1.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/session.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/stats/2659329e-1c65-3850-9659-d27fc655aa3c.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/stats/2659329e-1c65-3850-9659-d27fc655aa3c.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/stats/37815b4b-a277-3e88-89c9-687629f7c447.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/stats/37815b4b-a277-3e88-89c9-687629f7c447.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/stats/fd2b0ed7-411b-3fc7-aa79-261670dbe34f.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/stats/fd2b0ed7-411b-3fc7-aa79-261670dbe34f.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/ModItemSword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/ModItemSword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/ModItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/ModRecipes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/ModRecipes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/StorngStoneBricks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/StorngStoneBricks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/StrongBrickStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/StrongBrickStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/StrongStone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/StrongStone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/StrongStonePickaxe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/StrongStonePickaxe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/aftermine/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/aftermine/lang/en_US.lang" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
