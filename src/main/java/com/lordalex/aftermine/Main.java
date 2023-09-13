@@ -23,7 +23,7 @@ public class Main {
 
 	public static final String MODID = "Aftermine";
 	public static final String MODNAME = "AfterMine";
-	public static final String VERSION = "1.1.5";
+	public static final String VERSION = "1.1.6";
 
 	public static Block strongCobblestone;
 	public static Block strongStoneBricks;
@@ -35,6 +35,7 @@ public class Main {
 	public static Item strongStoneLabrys;
 	public static Item strongStoneAxe;
 	public static Item strongStoneHoe;
+	public static Item strongStoneShovel;
 
 	@EventHandler
 	public void preLoad(FMLPreInitializationEvent event)
@@ -50,6 +51,7 @@ public class Main {
 		strongStoneLabrys = new StrongStoneLabrys(ModItems.STRONG_STONE_LABRYS_MATERIAL, "StrongStoneLabrys", "strong_stone_labrys");
 		strongStoneAxe = new StrongStoneLabrys(ModItems.STRONG_STONE_TOOL_MATERIAL, "StrongStoneAxe", "strong_stone_axe");
 		strongStoneHoe = new StrongStoneHoe(ModItems.STRONG_STONE_TOOL_MATERIAL, "StrongStoneHoe", "strong_stone_hoe");
+		strongStoneShovel = new StrongStoneShovel(ModItems.STRONG_STONE_TOOL_MATERIAL, "StrongStoneShovel", "strong_stone_shovel");
 		ModRecipes.registerRecipes();
 	}
 

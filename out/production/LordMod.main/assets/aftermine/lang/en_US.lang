@@ -1,6 +1,9 @@
 item.StrongStoneSword.name=Strong Stone Sword
 item.StrongStonePickaxe.name=Strong Stone Pickaxe
 item.StrongStoneLabrys.name=Strong Stone Labrys
+item.StrongStoneAxe.name=Strong Stone Axe
+item.StrongStoneHoe.name=Strong Stone Hoe
+item.StrongStoneShovel.name=Strong Stone Shovel
 tile.StrongStone.name=Strong Cobblestone
 tile.StrongStoneBricks.name=Strong Stone Bricks
 tile.StrongBrickStairs.name=Strong Brick Stairs
