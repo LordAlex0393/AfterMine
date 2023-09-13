@@ -81,4 +81,24 @@ public class ModRecipes {
                 "   ", "CCC", "   ",
                 'C', Main.strongStoneBricks);
     }
+    public static void regStrongStoneAxe() {
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongStoneAxe),
+                "CC ", "CS ", " S ",
+                'S', Items.stick,
+                'C', Main.strongCobblestone);
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongStoneAxe),
+                " CC", " SC", " S ",
+                'S', Items.stick,
+                'C', Main.strongCobblestone);
+    }
+    public static void regStrongStoneHoe() {
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongStoneHoe),
+                "CC ", " S ", " S ",
+                'S', Items.stick,
+                'C', Main.strongCobblestone);
+        GameRegistry.addShapedRecipe(new ItemStack(Main.strongStoneHoe),
+                " CC", " S ", " S ",
+                'S', Items.stick,
+                'C', Main.strongCobblestone);
+    }
 }

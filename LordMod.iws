@@ -5,29 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc28d5db-0485-4a24-b923-04d6ef260e72" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AfterMine.api.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AfterMine.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AfterMine.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AfterMine.test.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/AfterMine.api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AfterMine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AfterMine.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AfterMine.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordMod.api.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordMod.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/LordMod.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/LordMod.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LordMod.iws" beforeDir="false" afterPath="$PROJECT_DIR$/LordMod.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordMod.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LordMod.test.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-12-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-12-1.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-12-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-12-2.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-12-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-12-3.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-12-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-12-4.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-12-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-12-5.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-12-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-12-6.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2023-09-12-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2023-09-12-7.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterDir="false" />
@@ -39,46 +27,28 @@
       <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/data/villages.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/level.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/level.dat_old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/1b8221f7-5861-330e-bef0-ac96b785ff27.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/1b8221f7-5861-330e-bef0-ac96b785ff27.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/34692304-57b2-31f8-a84c-d22c6ff753f7.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/34692304-57b2-31f8-a84c-d22c6ff753f7.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/c98187a9-e17b-3f48-8a33-882e62d18d19.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/c98187a9-e17b-3f48-8a33-882e62d18d19.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/d2fd1c5d-4760-35a0-aa0f-c197e25af2ac.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/d2fd1c5d-4760-35a0-aa0f-c197e25af2ac.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/3f66a67c-db6c-36b7-b762-d7a40c17883b.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/3f66a67c-db6c-36b7-b762-d7a40c17883b.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/41196538-4c2b-371d-b141-0e51ad033fac.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/41196538-4c2b-371d-b141-0e51ad033fac.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/ad4a30d4-53bd-30c6-b482-5d77fb42b2d7.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/playerdata/ad4a30d4-53bd-30c6-b482-5d77fb42b2d7.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/region/r.0.-1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/region/r.0.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/region/r.1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/region/r.1.-1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/region/r.1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/region/r.1.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/session.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/stats/1b8221f7-5861-330e-bef0-ac96b785ff27.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/stats/1b8221f7-5861-330e-bef0-ac96b785ff27.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/stats/34692304-57b2-31f8-a84c-d22c6ff753f7.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/stats/34692304-57b2-31f8-a84c-d22c6ff753f7.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/stats/c98187a9-e17b-3f48-8a33-882e62d18d19.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/stats/c98187a9-e17b-3f48-8a33-882e62d18d19.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/stats/d2fd1c5d-4760-35a0-aa0f-c197e25af2ac.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/stats/d2fd1c5d-4760-35a0-aa0f-c197e25af2ac.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/stats/3f66a67c-db6c-36b7-b762-d7a40c17883b.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/stats/3f66a67c-db6c-36b7-b762-d7a40c17883b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/stats/41196538-4c2b-371d-b141-0e51ad033fac.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/stats/41196538-4c2b-371d-b141-0e51ad033fac.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TEST/stats/ad4a30d4-53bd-30c6-b482-5d77fb42b2d7.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TEST/stats/ad4a30d4-53bd-30c6-b482-5d77fb42b2d7.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AfterMine.main/com/lordalex/aftermine/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AfterMine.main/com/lordalex/aftermine/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AfterMine.main/com/lordalex/aftermine/ModItemSword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AfterMine.main/com/lordalex/aftermine/ModItems.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AfterMine.main/com/lordalex/aftermine/ModRecipes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AfterMine.main/com/lordalex/aftermine/StorngStoneBricks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AfterMine.main/com/lordalex/aftermine/StrongBrickSlab.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AfterMine.main/com/lordalex/aftermine/StrongBrickStairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AfterMine.main/com/lordalex/aftermine/StrongStone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AfterMine.main/com/lordalex/aftermine/StrongStoneLabrys.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AfterMine.main/com/lordalex/aftermine/StrongStonePickaxe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LordMod.main/assets/aftermine/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LordMod.main/assets/aftermine/lang/en_US.lang" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LordMod.main/com/lordalex/aftermine/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LordMod.main/com/lordalex/aftermine/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LordMod.main/com/lordalex/aftermine/ModItemSword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LordMod.main/com/lordalex/aftermine/ModItems.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LordMod.main/com/lordalex/aftermine/ModRecipes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LordMod.main/com/lordalex/aftermine/StorngStoneBricks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LordMod.main/com/lordalex/aftermine/StrongBrickStairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LordMod.main/com/lordalex/aftermine/StrongStone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LordMod.main/com/lordalex/aftermine/StrongStoneLabrys.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LordMod.main/com/lordalex/aftermine/StrongStonePickaxe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AfterMine.main/assets/aftermine/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AfterMine.main/assets/aftermine/lang/en_US.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LordMod.main/com/lordalex/aftermine/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LordMod.main/com/lordalex/aftermine/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LordMod.main/com/lordalex/aftermine/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LordMod.main/com/lordalex/aftermine/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LordMod.main/com/lordalex/aftermine/ModRecipes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LordMod.main/com/lordalex/aftermine/ModRecipes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LordMod.main/com/lordalex/aftermine/StrongBrickSlab.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LordMod.main/com/lordalex/aftermine/StrongBrickSlab.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/ModRecipes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/ModRecipes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/StorngStoneBricks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/StorngStoneBricks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/StrongBrickStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/StrongBrickStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/StrongBrickSlab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lordalex/aftermine/StrongBrickSlab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/aftermine/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/aftermine/lang/en_US.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/aftermine/textures/items/hoe.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,24 +152,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.lordalex.aftermine" />
@@ -228,7 +198,7 @@
     </configuration>
     <configuration name="Minecraft Client" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="GradleStart" />
-      <module name="LordMod.main" />
+      <module name="AfterMine.main" />
       <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eclipse" />
       <RunnerSettings RunnerId="Run" />

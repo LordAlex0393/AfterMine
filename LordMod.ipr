@@ -57,10 +57,10 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LordMod.iml" filepath="$PROJECT_DIR$/LordMod.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LordMod.api.iml" filepath="$PROJECT_DIR$/LordMod.api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LordMod.main.iml" filepath="$PROJECT_DIR$/LordMod.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LordMod.test.iml" filepath="$PROJECT_DIR$/LordMod.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AfterMine.iml" filepath="$PROJECT_DIR$/AfterMine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AfterMine.api.iml" filepath="$PROJECT_DIR$/AfterMine.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AfterMine.main.iml" filepath="$PROJECT_DIR$/AfterMine.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AfterMine.test.iml" filepath="$PROJECT_DIR$/AfterMine.test.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">

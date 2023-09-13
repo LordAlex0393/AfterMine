@@ -17,6 +17,9 @@ import java.util.List;
 import java.util.Random;
 
 public class StrongBrickSlab extends BlockSlab {
+    public static final String[] field_150006_b = new String[] {"stone", "sand", "wood", "cobble", "brick", "smoothStoneBrick", "netherBrick", "quartz"};
+    @SideOnly(Side.CLIENT)
+    private IIcon field_150007_M;
     protected StrongBrickSlab(Material material, String name, String texture, boolean isDouble){
         super(isDouble, Main.strongStoneBricks.getMaterial());
         this.setBlockName(name);
@@ -40,6 +43,7 @@ public class StrongBrickSlab extends BlockSlab {
     /**
      * Gets the block's texture. Args: side, meta
      */
+
     @SideOnly(Side.CLIENT)
     public IIcon getIcon(int p_149691_1_, int p_149691_2_)
     {
@@ -57,7 +61,7 @@ public class StrongBrickSlab extends BlockSlab {
      */
     protected ItemStack createStackedBlock(int p_149644_1_)
     {
-        return new ItemStack(Item.getItemFromBlock(Main.strongBrickSlab), 2, p_149644_1_ & 7);
+        return new ItemStack(Item.getItemFromBlock(Main.strongBrickSlab), 2, p_149644_1_);
     }
 
     /**
@@ -70,7 +74,7 @@ public class StrongBrickSlab extends BlockSlab {
     @SideOnly(Side.CLIENT)
     public void getSubBlocks(Item p_149666_1_, CreativeTabs p_149666_2_, List p_149666_3_)
     {
-        if (p_149666_1_ != Item.getItemFromBlock(Blocks.double_wooden_slab))
+        if (p_149666_1_ != Item.getItemFromBlock(Main.doubleStrongBrickSlab))
         {
                 p_149666_3_.add(new ItemStack(p_149666_1_, 1));
 
